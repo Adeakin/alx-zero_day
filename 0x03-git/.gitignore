@@ -1,0 +1,5 @@
+~/alx-pre_course (main)
+$ cd 0x01-git (enter)
+
+~/alx-pre_course/0x01-git (main)
+$echo "~">.gitignore (enter)
